@@ -1,2 +1,2 @@
 # jigsaw
-record every keystrokes
+record every keystrokes for windows by utilizing GetAsyncKeyState
